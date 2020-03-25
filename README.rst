@@ -6,6 +6,10 @@ Enzyme is a Python module to parse video metadata.
 .. image:: https://travis-ci.org/Diaoul/enzyme.png?branch=master
     :target: https://travis-ci.org/Diaoul/enzyme
 
+Install
+-------
+
+    pip install enzyme
 
 Usage
 -----
